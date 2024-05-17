@@ -1,2 +1,4 @@
 # Animação Piscante e Descrição com Efeito de Escrita
-Este projeto visa desenvolver uma animação interativa utilizando HTML e CSS. A animação será integrada em uma página web, demonstrando como é possível criar efeitos visuais dinâmicos e envolventes através de técnicas modernas de design.
+## Descrição
+
+Este projeto consiste na criação de uma animação utilizando HTML e CSS, destacando a logo do site "Ana Store" e o texto descritivo. Na logo, as letras piscam de forma alternada, atraindo a atenção do usuário. A descrição foi projetada para parecer que está sendo digitada em tempo real. A ideia foi concebida com um estilo minimalista, visando uma aplicação prática em uma página web.
