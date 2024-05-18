@@ -1,0 +1,90 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.letra-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img{
+  margin-left: 30%;
+  width: 30%;
+}
+.a, .n, .s, .t, .o, .r, .e {
+  font-size: 48px;
+  margin: 0 5px;
+  animation: pulso 1s infinite alternate;
+  color: #333;
+}
+
+.espaco {
+  margin: 0 10px;
+}
+
+.descricao {
+  margin-top: 20px;
+  text-align: justify;
+  line-height: 1.6;
+  font-family: Arial, sans-serif;
+  animation: fade 1.5s forwards;
+}
+
+.descricao p {
+  overflow: hidden;
+  width: 0;
+  animation: typing 5s steps(40) forwards;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+  margin-bottom: 20px;
+  animation: rotate 5s infinite linear;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes pulso {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0.5;
+    transform: scale(1.1);
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
