@@ -3,7 +3,7 @@
 
 Este projeto consiste na criação de uma animação utilizando HTML e CSS, destacando a logo do site "Ana Store" e o texto descritivo. Na logo, as letras piscam de forma alternada, atraindo a atenção do usuário. A descrição foi projetada para parecer que está sendo digitada em tempo real. A ideia do site, para simular a utilização das animações, foi voltada para o lado da moda. A concepção foi pensada com um estilo minimalista, visando uma aplicação prática em uma página web.
 
-## GIF
+## 🎞 GIF
 
 Veja a animação em forma de GIF:
 
