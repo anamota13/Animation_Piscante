@@ -6,6 +6,8 @@ Este projeto consiste na criação de uma animação utilizando HTML e CSS, dest
 ## 🎞 GIF
 
 Veja a animação em forma de GIF:
+![Animation](animation.gif.gif)
+
 
 
 
